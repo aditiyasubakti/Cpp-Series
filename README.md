@@ -13,6 +13,9 @@
 </ol>
 <br>
 <h2>password combination</h2>
+<img src="[Screenshot 2024-06-10 132740](https://github.com/aditiyasubakti/Cpp-Series/assets/76142476/50239b00-9a60-4bdc-904b-82dcd5af3725)
+" alt="Girl in a jacket" width="500" height="600">
+
 [Screenshot 2024-06-10 132740](https://github.com/aditiyasubakti/Cpp-Series/assets/76142476/50239b00-9a60-4bdc-904b-82dcd5af3725)
 
 
