@@ -14,11 +14,11 @@
 <br>
 <h2>password combination</h2>
 <img src="https://github.com/aditiyasubakti/Cpp-Series/assets/76142476/50239b00-9a60-4bdc-904b-82dcd5af3725
-" alt="Girl in a jacket" width="500" height="600">
+" alt="Girl in a jacket" width="500" height="600"/>
 
 
 
 
-!(https://github.com/aditiyasubakti/Cpp-Series/assets/76142476/895c850d-f2d4-4f44-9119-31229ae4e5b3)
+
 
 
