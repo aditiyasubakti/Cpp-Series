@@ -1,6 +1,9 @@
 # there are several libs that you have to install
-<b>windows version<b>
-download curl lib <a href="https://curl.se/windows/">here</a>
-<br>
-<b>all versions<b>
-download curl lib <a href="https://curl.se/download.html">here</a>
+<ol>
+  <li><b>windows version</b><br>
+  -download curl lib <a href="https://curl.se/windows/">here</a></li>
+    
+  <br>
+  <li><b>all versions</b><br>
+    -download curl lib <a href="https://curl.se/download.html">here</a></li>
+</ol>
